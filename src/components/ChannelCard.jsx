@@ -8,7 +8,7 @@ const ChannelCard = () => {
     <Box
       sx={{
         boxShadow: 'none',
-        borderRadius: '20px',
+        borderRadius: '20px', 
       }}
     >
 
